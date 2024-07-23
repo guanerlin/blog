@@ -15,15 +15,13 @@ entries:
 
   - title: posts by category
     post_list:
-      category: example2
+      category: work
       show_more: true
       show_more_text: See more posts...
       show_more_url: example2-archive.html
   
-  - title: another list
+  - title: About
     entries:
-      - title: with subitems
-        entries:
-          - title: with subsubitems
-          - title: about me
-            url: about
+        - title: about me
+          url: about
+
